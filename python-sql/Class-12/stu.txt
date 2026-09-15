@@ -1,0 +1,5 @@
+Computer science (CS) is the study of computers and computational systems,
+encompassing both their theoretical foundations and practical applications.
+It's a broad field involving the design, development, and analysis of algorithms, software, and hardware.
+Computer scientists use mathematical models, programming languages, and computational thinking to solve complex problems and create innovative solutions across various industries.
+From developing new software to understanding artificial intelligence, computer science plays a crucial role in shaping our technological landscape. 

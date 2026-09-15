@@ -1,0 +1,16 @@
+id,student_id,name,class,dob,gender,address,phone
+1,S001,Aarav Sharma,5,2014-03-15,Male,"Delhi, India",9876543210
+2,S002,Ishita Patel,10,2009-07-21,Female,"Ahmedabad, India",9876501234
+3,S003,Rohan Das,12,2007-01-10,Male,"Kolkata, India",9988776655
+4,S004,Meena Iyer,8,2012-11-05,Female,"Chennai, India",9123456789
+6,S006,Simran Kaur,7,2013-09-30,Female,"Amritsar, India",9012345678
+8,S1001,Aarav Sharma,10,12-05-2009,Male,Delhi,9876543210
+9,S1002,Priya Verma,10,22-08-2009,Female,Lucknow,9876543211
+10,S1003,Rohan Gupta,9,14-01-2010,Male,Jaipur,9876543212
+11,S1004,Neha Singh,9,03-03-2010,Female,Varanasi,9876543213
+12,S1005,Aditya Mehta,8,09-11-2011,Male,Bhopal,9876543214
+13,S1006,Ananya Iyer,8,25-07-2011,Female,Chennai,9876543215
+14,S1007,Karan Patel,12,18-09-2007,Male,Ahmedabad,9876543216
+15,S1008,Isha Khan,12,07-06-2007,Female,Mumbai,9876543217
+16,S1009,Manav Reddy,11,30-12-2008,Male,Hyderabad,9876543218
+17,S1010,Sneha Roy,11,15-04-2008,Female,Kolkata,9876543219
