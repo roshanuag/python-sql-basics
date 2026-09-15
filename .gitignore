@@ -1,0 +1,8 @@
+.vscode/
+Git demo/
+cpp-dsa-journey/
+__pycache__/
+*.pyc
+*.zip
+*.mp3
+*.docx
