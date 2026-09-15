@@ -1,0 +1,16 @@
+# Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor settings
+.vscode/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Large media & archives
+*.zip
+*.mp3
+*.docx
